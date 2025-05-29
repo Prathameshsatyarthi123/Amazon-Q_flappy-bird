@@ -7,10 +7,9 @@ A browser-based clone of the legendary **Flappy Bird** game, recreated using **H
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Demo
 
-👉 [Play the Game](https://your-demo-link.com)  
-🧠 [Read the Blog Post](https://medium.com/@yourprofile/flappy-bird-clone-html5-canvas-javascript-guide)
+👉  https://medium.com/@prathamesh.satyarthi/rebuilding-flappy-bird-with-html5-javascript-and-the-power-of-amazon-q-cli-0ea95627cf5a
 
 ---
 
