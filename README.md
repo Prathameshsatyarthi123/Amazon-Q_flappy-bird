@@ -3,8 +3,6 @@
 
 A browser-based clone of the legendary **Flappy Bird** game, recreated using **HTML5 Canvas** and **vanilla JavaScript**, complete with smooth animations, physics, scoring, and sound effects.
 
-![Flappy Bird Screenshot](https://miro.medium.com/max/1400/1*KPJ7cGf0Tdz5bHk_AvIKEA.jpeg)
-
 ---
 
 ## 🚀 Demo
